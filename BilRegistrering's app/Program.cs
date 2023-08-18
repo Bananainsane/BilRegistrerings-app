@@ -8,8 +8,10 @@ using System.Threading;
 
 class Program
 {
+    // List to store registered cars.
     private static List<Car> registeredCars = new List<Car>();
 
+    // Entry point of the application, Displays the main menu and handles user interactions
     static void Main(string[] args)
     {
         IntroSequence.Show();
