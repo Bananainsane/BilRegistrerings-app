@@ -1,7 +1,4 @@
-﻿
-using System;
-
-namespace BilRegistrering_s_app
+﻿namespace BilRegistrering_s_app
 {
     // Each enum value is associated with a description detailing the reason for the recall.
     public enum RecalledCars

@@ -1,5 +1,4 @@
-﻿using System;
-using System.Net.Mail;
+﻿using System.Net.Mail;
 
 namespace BilRegistrering_s_app.Help_functions
 {

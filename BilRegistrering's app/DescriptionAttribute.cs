@@ -1,11 +1,8 @@
-﻿
-using System;
-
-namespace BilRegistrering_s_app
+﻿namespace BilRegistrering_s_app
 {
-    
+
     // Custom attribute to provide a description to fields, especially useful for enums.
-    
+
     [AttributeUsage(AttributeTargets.Field, Inherited = false, AllowMultiple = false)]
     public sealed class DescriptionAttribute : Attribute
     {

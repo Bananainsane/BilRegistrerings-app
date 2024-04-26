@@ -1,7 +1,4 @@
-﻿
-using System;
-
-namespace BilRegistrering_s_app
+﻿namespace BilRegistrering_s_app
 {
     // Represents a car with various details such as make, model, and service history.
     public class Car
